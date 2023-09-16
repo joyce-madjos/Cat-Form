@@ -1,13 +1,11 @@
 # Data Entry Form
 
-Front End
+![image](https://user-images.githubusercontent.com/111858908/222716980-81fd2c75-5fcf-4d64-be48-a3350fd6d80a.png)
+
+Front End Web Development, Web Design
 
 Date Written: July 22, 2022
 Last Edited: September 16, 2023
-
-Bootstrap
-
-![image](https://user-images.githubusercontent.com/111858908/222716980-81fd2c75-5fcf-4d64-be48-a3350fd6d80a.png)
 
 <h2>Credits</h2>
 Images Used:
