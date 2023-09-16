@@ -13,4 +13,4 @@ Bootstrap
 Credits
 
 <a href="https://www.nicepng.com/maxp/u2e6e6y3w7a9q8e6/">Kawaii Clipart Sticker Cat</a>
-<a href="https://www.freepik.com/premium-vector/draw-cute-cat-with-sunglasses_4394976.htm">cute cat with sunglasses</a>
+<a href="https://www.freepik.com/premium-vector/draw-cute-cat-with-sunglasses_4394976.htm">Cute Cat with Sunglasses</a>
